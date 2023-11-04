@@ -1,0 +1,148 @@
+.tovar-minus {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+.faq-wrap1 {
+    /*width: 100%;*/
+    max-width: 856px;
+    grid-column-gap: 24px;
+    grid-row-gap: 24px;
+    flex-direction: column;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-columns: 1fr;
+    align-content: start;
+    justify-content: center;
+    align-items: start;
+    display: grid;
+}
+
+.faq-wrap1 img:hover {
+    width: 100px;
+}
+
+.faq-wrap1 img {
+    width: 80px;
+}
+
+.section1 {
+
+}
+
+
+/*===POP-UP===*/
+
+/* Стилі для тла вікна */
+.overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Півпрозоре чорне тло */
+    z-index: 9999; /* Вищий ніж інші елементи */
+}
+
+/* Стилі для вікна */
+.modal {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    position: absolute;
+    top: 50%; /* Перемістити верхню грань вікна в центр */
+    left: 50%; /* Перемістити ліву грань вікна в центр */
+    transform: translate(-50%, -50%); /* Вирівняти по центру */
+    max-width: 400px; /* Максимальна ширина вікна */
+    width: 100%;
+}
+
+/* Стилі для кнопок */
+.btn {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-yes {
+    background-color: #4CAF50; /* Зелений колір для "так" */
+    color: #fff;
+}
+
+.btn-no {
+    background-color: #FF5733; /* Червоний колір для "ні" */
+    color: #fff;
+}
+/*===END POP-UP===*/
+
+.btn-continue {
+    background-color: #004080;
+	cursor: pointer;
+	color: #fff;
+    flex: none;
+    margin: 0 24px 24px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.order-amount {
+    width: 50px;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.btn-edit {
+    width: 30px;
+    height: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 100%;
+    text-align: center;
+    padding: 4px;
+}
+
+.plus-minus {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.white-color {
+    color: #eeeffa;
+}
+
+.text-green {
+    color: #46f705;
+}
+
+.red-color {
+    color: red;
+
+}
+
+
+/*КНОПКА ЗАМОВИТИ*/
+
+.button.secondary {
+    color: #f7f8ff;
+    background-color: #6385ee;
+    border-color: #6385ee;
+  }
+  
+  .button.secondary:hover {
+    color: #406bd0;
+    background-color: rgba(0, 0, 0, 0);
+    border-color: #406bd0;
+  }
+  

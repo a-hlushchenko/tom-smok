@@ -1,0 +1,149 @@
+.order-list {
+  display: grid;
+  width: 100%;
+}
+
+.order {
+  padding: 20px;
+  border-bottom: 1px solid gray;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  width: 100%;
+}
+
+.order-content {
+  display: grid;
+  gap: 4px;
+  flex: 1;
+}
+
+.order-img {
+  width: 100px;
+  border-radius: 8px;
+}
+
+.order-amount {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  text-align: center;
+  padding: 4px;
+}
+
+.w-commerce-commercecartemptystate {
+  padding: 0;
+  display: grid;
+  justify-content: unset;
+}
+
+.cart-container {
+  max-height: 80%;
+}
+
+.total {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.error-message {
+  background-color: #406bd0;
+  cursor: pointer;
+  color: #fff;
+}
+
+.error-message a {
+  color: #fff;
+}
+
+.order-remove {
+  color: #406bd0;
+  padding-top: 4px;
+  cursor: pointer;
+}
+
+.w-webflow-badge {
+  display: none !important;
+}
+
+.navbar.w-nav {
+  position: sticky;
+  top: 0px;
+  z-index: 5;
+  background-color: #fff;
+}
+
+@media all and (width < 500px) {
+  .cart-container {
+    max-height: none;
+  }
+}
+
+.w-commerce-commercelayoutmain {
+  display: block;
+}
+
+.contact-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin: 0;
+}
+
+.w-commerce-commercecheckoutshippingaddresswrapper.order-info-list {
+  grid-row: 1 / 4;
+}
+
+.w-commerce-commercelayoutcontainer.w-container {
+  display: grid;
+}
+
+.w-commerce-commercecheckoutplaceorderbutton {
+  width: 100%;
+}
+
+@media all and (width < 1024px) {
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+  }
+}
+
+.empty {
+  display: none;
+}
+
+.free-del-wrapper {
+  padding: 0 24px 4px 24px;
+}
+
+.free-del {
+  border-radius: 4px;
+  background-color: #ffc700;
+  padding: 12px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.free-del-sum {
+  font-weight: 700;
+}
+
+.have-free-del-disabled,
+.get-free-del-disabled {
+  display: none;
+}
+
+.w-commerce-commercecartemptystate {
+  flex: 0;
+}
+
+@media all and (width < 420px) {
+  .free-del {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,245 @@
+2023-09-10 21:25:37 - https://api.telegram.org/bot6024137895:AAEUHi1MLBvXxa05qyVkIdMomqRWuco6exU/sendMessage?chat_id=-1001982224153&parse_mode=html&text=Товар: Elf Bar PI7000%0Aсмак: Сорбет зі свіжих ягід%0Aкількість: 1%0A%0AТовар: Рідина для под систем Chaser 30мл 50мг%0Aсмак: Смородина ментол%0Aкількість: 3%0A%0AІм'я: qwe%0AТелефон: qwe%0AОбласть: qwe%0AМісто: qwe%0AРайон: qwe%0AПошта: qwe%0A%0AСума: 1334%D0%B3%D1%80%D0%BD%0A
+2023-09-10 21:25:37 - 
+2023-09-16 10:49:47 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id=-4034380614&parse_mode=html&text=Товар: Рідина для под систем Chaser 10мл 60мг%0Aсмак: Полуниця банан%0Aкількість: 1%0A%0AІм'я: %D0%9B%D1%96%D0%BD%D0%BD%D0%B8%D0%BA+%D0%90%D1%80%D1%82%D0%B5%D0%BC+%0AТелефон: %2B380+96+194+6524%0AОплата: %D0%93%D0%BE%D1%82%D1%96%D0%B2%D0%BA%D0%BE%D1%8E+%D0%BF%D1%80%D0%B8+%D0%BE%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BD%D1%96%0AОбласть: %D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0+%0AМісто: %D1%81.%D0%A5%D0%BE%D0%B4%D0%BE%D1%81%D1%96%D0%B2%D0%BA%D0%B0%0AРайон: %D0%9A%D0%B8%D1%94%D0%B2%D0%BE-%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%88%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%0AПошта: %D0%92%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B5+%D0%B2%D1%96%D0%B4%D0%B4%D1%96%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+%E2%84%961%3A+%D0%B2%D1%83%D0%BB.+%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%0A%0AСума: 100%D0%B3%D1%80%D0%BD%0A
+2023-09-16 10:49:47 - 
+2023-09-17 15:06:24 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id=-4034380614&parse_mode=html&text=Товар: Рідина для под систем Chaser 10мл 60мг%0Aсмак: Блакитна малина лимонад Ice%0Aкількість: 1%0A%0AІм'я: %D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC+%0AТелефон: 0985043395%0AОплата: %D0%93%D0%BE%D1%82%D1%96%D0%B2%D0%BA%D0%BE%D1%8E+%D0%BF%D1%80%D0%B8+%D0%BE%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BD%D1%96%0AОбласть: %D0%94%D0%BD%D0%B8%D0%BF%D1%80%D0%BE+%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C+%0AМісто: %D0%9F%D0%B3%D1%82+%D0%A8%D1%8B%D1%80%D0%BE%D0%BA%D0%BE%D0%B5+%0AРайон: %D0%93%D1%80%D1%8B%D0%B2%D1%8B%D0%B9+%D1%80%D0%B8%D0%B3+%0AПошта: %D0%9D%D0%BE%D0%BC%D0%B5%D1%80+1+%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D0%BD%D0%B0+104%0A%0AСума: 100%D0%B3%D1%80%D0%BD%0A
+2023-09-17 15:06:24 - 
+2023-09-17 15:10:23 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id=-4034380614&parse_mode=html&text=Товар: Рідина для под систем Chaser 10мл 60мг%0Aсмак: Блакитна малина%0Aкількість: 1%0A%0AІм'я: %D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC+%0AТелефон: 0985043395%0AОплата: %D0%93%D0%BE%D1%82%D1%96%D0%B2%D0%BA%D0%BE%D1%8E+%D0%BF%D1%80%D0%B8+%D0%BE%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BD%D1%96%0AОбласть: %D0%9A%D1%80%D1%8B%D0%B2%D1%8B%D0%B9+%D1%80%D0%B8%D0%B3+%0AМісто: %D0%9F%D0%B3%D1%82+%D0%A8%D1%8B%D1%80%D0%BE%D0%BA%D0%BE%D0%B5+%0AРайон: %D0%94%D0%BD%D0%B8%D0%BF%D1%80%D0%BE+%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C+%0AПошта: %D0%9D%D0%BE%D0%BC%D0%B5%D1%80+1+%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D0%BD%D0%B0+104%0A%0AСума: 100%D0%B3%D1%80%D0%BD%0A
+2023-09-17 15:10:23 - 
+2023-09-20 19:21:53 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id=-4034380614&parse_mode=html&text=Товар: Vozol Star 6000%0Aсмак: Полуничне морозиво%0Aкількість: 1%0A%0AІм'я: sef%0AТелефон: sdv45%0AОплата: %D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BA%D0%B0%D1%80%D1%82%D1%83%0AОбласть: dc%0AМісто: dc%0AРайон: dc%0AПошта: cd%0A%0AСума: 450%D0%B3%D1%80%D0%BD%0A
+2023-09-20 19:21:53 - 
+2023-09-20 19:23:59 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id= -1001919224556&parse_mode=html&text=Товар: Vozol Star 6000%0Aсмак: Полуничне морозиво%0Aкількість: 1%0A%0AІм'я: sef%0AТелефон: sdv45%0AОплата: %D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BA%D0%B0%D1%80%D1%82%D1%83%0AОбласть: dc%0AМісто: dc%0AРайон: dc%0AПошта: cd%0A%0AСума: 450%D0%B3%D1%80%D0%BD%0A
+2023-09-20 19:23:59 - 
+2023-09-20 19:24:18 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id=-1001919224556&parse_mode=html&text=Товар: Vozol Star 6000%0Aсмак: Полуничне морозиво%0Aкількість: 1%0A%0AІм'я: sef%0AТелефон: sdv45%0AОплата: %D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BA%D0%B0%D1%80%D1%82%D1%83%0AОбласть: dc%0AМісто: dc%0AРайон: dc%0AПошта: cd%0A%0AСума: 450%D0%B3%D1%80%D0%BD%0A
+2023-09-20 19:24:19 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 6
+            [from] => stdClass Object
+                (
+                    [id] => 6639941736
+                    [is_bot] => 1
+                    [first_name] => Tomsmok
+                    [username] => tomsmok_orders_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -1001919224556
+                    [title] => Tom Smok Orders
+                    [type] => supergroup
+                )
+
+            [date] => 1695227058
+            [text] => Товар: Vozol Star 6000
+смак: Полуничне морозиво
+кількість: 1
+
+Ім'я: sef
+Телефон: sdv45
+Оплата: Оплата на карту
+Область: dc
+Місто: dc
+Район: dc
+Пошта: cd
+
+Сума: 450грн
+        )
+
+)
+
+2023-09-21 21:18:13 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id=-1001919224556&parse_mode=html&text=Товар: Elf Bar PI7000%0Aсмак: Райдужна хмара%0Aкількість: 1%0A%0AІм'я: efwef+wefweg%0AТелефон: 0682839724%0AОплата: %D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BA%D0%B0%D1%80%D1%82%D1%83%0AОбласть: %D0%9A%D0%B8%D0%B5%D0%B2%0AМісто: %D0%A7%D0%B0%D0%B1%D0%B0%D0%BD%D0%B8%0AРайон: wef%0AПошта: wef%0A%0AСума: 550%D0%B3%D1%80%D0%BD%0A
+2023-09-21 21:18:13 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 7
+            [from] => stdClass Object
+                (
+                    [id] => 6639941736
+                    [is_bot] => 1
+                    [first_name] => Tomsmok
+                    [username] => tomsmok_orders_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -1001919224556
+                    [title] => Tom Smok Orders
+                    [type] => supergroup
+                )
+
+            [date] => 1695320293
+            [text] => Товар: Elf Bar PI7000
+смак: Райдужна хмара
+кількість: 1
+
+Ім'я: efwef wefweg
+Телефон: 0682839724
+Оплата: Оплата на карту
+Область: Киев
+Місто: Чабани
+Район: wef
+Пошта: wef
+
+Сума: 550грн
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 85
+                            [length] => 10
+                            [type] => phone_number
+                        )
+
+                )
+
+        )
+
+)
+
+2023-09-22 2:30:29 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id=-1001919224556&parse_mode=html&text=Товар: Elf Bar PI7000%0Aсмак: Райдужна хмара%0Aкількість: 1%0A%0AІм'я: 0682839724%0AТелефон: erdf%0AОплата: %D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BA%D0%B0%D1%80%D1%82%D1%83%0AОбласть: %D0%9A%D0%B8%D0%B5%D0%B2%0AМісто: %D0%A7%D0%B0%D0%B1%D0%B0%D0%BD%D0%B8%0AРайон: erf%0AПошта: erger%0A%0AСума: 550%D0%B3%D1%80%D0%BD%0A
+2023-09-22 2:30:30 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 8
+            [from] => stdClass Object
+                (
+                    [id] => 6639941736
+                    [is_bot] => 1
+                    [first_name] => Tomsmok
+                    [username] => tomsmok_orders_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -1001919224556
+                    [title] => Tom Smok Orders
+                    [type] => supergroup
+                )
+
+            [date] => 1695339029
+            [text] => Товар: Elf Bar PI7000
+смак: Райдужна хмара
+кількість: 1
+
+Ім'я: 0682839724
+Телефон: erdf
+Оплата: Оплата на карту
+Область: Киев
+Місто: Чабани
+Район: erf
+Пошта: erger
+
+Сума: 550грн
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 63
+                            [length] => 10
+                            [type] => phone_number
+                        )
+
+                )
+
+        )
+
+)
+
+2023-09-22 2:36:20 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id=-1001919224556&parse_mode=html&text=Товар: Elf Bar PI7000%0Aсмак: Райдужна хмара%0Aкількість: 1%0A%0AІм'я: 0682839724%0AТелефон: %D1%86%D1%83%D0%B0+%0AОплата: %D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BA%D0%B0%D1%80%D1%82%D1%83%0AОбласть: %D0%9A%D0%B8%D0%B5%D0%B2%0AМісто: %D0%A7%D0%B0%D0%B1%D0%B0%D0%BD%D0%B8%0AРайон: %D1%86%D1%83%D0%B0%0AПошта: %D1%86%D1%83%D0%B0%0A%0AСума: 550%D0%B3%D1%80%D0%BD%0A
+2023-09-22 2:36:20 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 9
+            [from] => stdClass Object
+                (
+                    [id] => 6639941736
+                    [is_bot] => 1
+                    [first_name] => Tomsmok
+                    [username] => tomsmok_orders_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -1001919224556
+                    [title] => Tom Smok Orders
+                    [type] => supergroup
+                )
+
+            [date] => 1695339380
+            [text] => Товар: Elf Bar PI7000
+смак: Райдужна хмара
+кількість: 1
+
+Ім'я: 0682839724
+Телефон: цуа 
+Оплата: Оплата на карту
+Область: Киев
+Місто: Чабани
+Район: цуа
+Пошта: цуа
+
+Сума: 550грн
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 63
+                            [length] => 10
+                            [type] => phone_number
+                        )
+
+                )
+
+        )
+
+)
+
+2023-09-22 2:58:41 - https://api.telegram.org/bot6639941736:AAFWgrhLxdkyM3q5PT5Fn-O7cABso7Adwe0/sendMessage?chat_id=-1001919224556&parse_mode=html&text=Товар: Elf Bar PI7000%0Aсмак: Райдужна хмара%0Aкількість: 1%0A%0AІм'я: wef+wef%0AТелефон: wefwe+f%0AОплата: %D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BA%D0%B0%D1%80%D1%82%D1%83%0AОбласть: wef%0AМісто: wef%0AРайон: wef%0AПошта: wef%0A%0AСума: 550%D0%B3%D1%80%D0%BD%0A
+2023-09-22 2:58:42 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 10
+            [from] => stdClass Object
+                (
+                    [id] => 6639941736
+                    [is_bot] => 1
+                    [first_name] => Tomsmok
+                    [username] => tomsmok_orders_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -1001919224556
+                    [title] => Tom Smok Orders
+                    [type] => supergroup
+                )
+
+            [date] => 1695340722
+            [text] => Товар: Elf Bar PI7000
+смак: Райдужна хмара
+кількість: 1
+
+Ім'я: wef wef
+Телефон: wefwe f
+Оплата: Оплата на карту
+Область: wef
+Місто: wef
+Район: wef
+Пошта: wef
+
+Сума: 550грн
+        )
+
+)
+
